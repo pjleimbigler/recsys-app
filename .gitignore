@@ -1,5 +1,7 @@
 # 2023-06-18: Automatically created .gitignore via GitHub new repo wizard
 
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
